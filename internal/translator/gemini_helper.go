@@ -29,6 +29,7 @@ const (
 	gcpMethodGenerateContent       = "generateContent"
 	gcpMethodStreamGenerateContent = "streamGenerateContent"
 	gcpMethodRawPredict            = "rawPredict"
+	gcpMethodPredict               = "predict"
 )
 
 // geminiResponseMode represents the type of response mode for Gemini requests
